@@ -1,0 +1,8 @@
+.text {
+  color: grey;
+  text-decoration: none;
+}
+
+.text:hover {
+  color: #0b5ed7;
+}
